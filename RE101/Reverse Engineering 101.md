@@ -281,7 +281,7 @@ Access Granted!
  
  
 ### using "VV" to show program flow
-![VV](RE101/Pasted image 20211117183143.png)
+![Test](https://github.com/khooihzhz/learning-notes/blob/c0aaf8058aeb8e4f9e9a61c5ab1278fc1552af11/RE101/Pasted%20image%2020211117183143.png)
 
 rename variable in VV mode
 *afvn [variable_name] [new_variable_name]*
