@@ -34,3 +34,16 @@ returns
 
 can be accessed with TCP / UDP connection
 
+### dns query 
+MX = mail exchnge for SMTP protocol
+NS = name server
+
+### run bash commands
+```python
+return os.system('ls')
+```
+
+### setup HTTP server
+```python
+python -m http.server 80
+```

@@ -1,3 +1,8 @@
+### import axios
+
+```js
+import axios from 'axios'
+```
 ### Axios POST request
 
 ``` javascript
@@ -50,5 +55,36 @@ useEffect(()=>{
 
 ```js
 const [TableNumber, setTableNumber] = React.useState('Empty')
+
+```
+
+
+### run FASTAPI
+```python
+uvicorn app:app --reload
+```
+
+### converting JSON obj to STRING
+
+```js
+const myJSON = JSON.stringify(obj);
+```
+
+### converting JSON string to JSON obj
+
+```js
+const myJSON = JSON.parse(JSON_string)
+```
+
+### creating REACT snippets
+
+```
+rsf
+```
+
+### button onClick function
+
+```js
+
 
 ```
