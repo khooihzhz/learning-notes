@@ -32,8 +32,8 @@ End Sub
 This is the macro in the pptm file, there's nothing special, It just jump to random pages in the slide.
 
 Then, we proceed to run the slideshow and found an interesting picture.
-![[Pasted image 20211127120227.png]]
+![Pasted image 20211127120227.png](https://github.com/khooihzhz/learning-notes/blob/9e515d9b21549c90b12b9c21e8f00b293d9979eb/Hack@10%20Write-ups/Images/Pasted%20image%2020211127120227.png)
 
 Then, we remove the picture and the flag is hidden under the picture. 
 
-![[Pasted image 20211127120318.png]]
+![Pasted image 20211127120318.png](https://github.com/khooihzhz/learning-notes/blob/9e515d9b21549c90b12b9c21e8f00b293d9979eb/Hack@10%20Write-ups/Images/Pasted%20image%2020211127120318.png)
