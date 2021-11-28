@@ -14,4 +14,4 @@ We got the flaggg
 ![[Pasted image 20211127122530.png]]
 
 Reference : 
-[ctfchecklist]([https://fareedfauzi.gitbook.io/ctf-checklist-for-beginner/steganography](https://fareedfauzi.gitbook.io/ctf-checklist-for-beginner/steganography "https://fareedfauzi.gitbook.io/ctf-checklist-for-beginner/steganography")
+[ctfchecklist](https://fareedfauzi.gitbook.io/ctf-checklist-for-beginner/steganography](https://fareedfauzi.gitbook.io/ctf-checklist-for-beginner/steganography "https://fareedfauzi.gitbook.io/ctf-checklist-for-beginner/steganography")
