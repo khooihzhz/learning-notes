@@ -31,3 +31,9 @@ d = depth
 ```bash
 ifconfig -a
 ```
+
+### make all files in folder 777
+
+```bash
+chmod 777 -R <folder_name>
+```
