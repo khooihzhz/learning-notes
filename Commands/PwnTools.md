@@ -1,0 +1,1 @@
+[good reference](https://ir0nstone.gitbook.io/notes/other/pwntools/processes_and_communication)
