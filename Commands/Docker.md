@@ -7,3 +7,14 @@ Look at DockerFile to see services
 ```
 // if there is a script to help you run docker
 
+### building Docker Image from Dockerfile
+```
+docker build . -t <image name>
+```
+
+### run Docker
+
+```
+docker run <image name>
+```
+

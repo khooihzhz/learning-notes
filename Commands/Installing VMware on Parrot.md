@@ -1,0 +1,1 @@
+[Reference](https://linuxize.com/post/how-to-install-vmware-workstation-player-on-ubuntu-20-04/)

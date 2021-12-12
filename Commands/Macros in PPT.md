@@ -9,3 +9,8 @@ python3 olevba <filename>
 ```bash
 ./dockermonkey.sh <file name>
 ```
+
+## Parseml.py
+[parseml.py](https://gist.github.com/urschrei/5258588)
+
+extract attached file from eml extensions
