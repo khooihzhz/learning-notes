@@ -48,3 +48,7 @@ return os.system('ls')
 python -m http.server 80
 ```
 
+### CP methods
+```python
+a, b, c, d = [int(x) for x in input().split()]
+```

@@ -37,3 +37,18 @@ ifconfig -a
 ```bash
 chmod 777 -R <folder_name>
 ```
+
+### netstat
+```
+netstat -lntu
+```
+
+-l listening ports , -n port number, -t tcp ports, -u udp ports
+
+### ufw firewall in linux
+```
+sudo ufw allow <port number> 
+```
+
+### how to allow ICMP packet in WSL
+[Link to tutorial](https://superuser.com/questions/1449775/windows-wsl-2-cant-ping-host-machine/1496354)
