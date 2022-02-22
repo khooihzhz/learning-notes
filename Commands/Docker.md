@@ -18,3 +18,33 @@ docker build . -t <image name>
 docker run <image name>
 ```
 
+### list all docker image
+```
+docker image ls
+```
+
+### list all docker process
+
+```
+docker ps -a
+```
+
+### start a created container
+```
+docker start <container_name>
+```
+
+### set env file
+```
+--env-file .env
+```
+
+### expose port (5000 on host machine, 80 on docker)
+```
+-p 5000:80
+```
+
+###  deploy steps 
+-> winscp to copy build 
+-> use nginx to host the webpage in docker
+-> use docker for reverse proxy

@@ -52,3 +52,15 @@ sudo ufw allow <port number>
 
 ### how to allow ICMP packet in WSL
 [Link to tutorial](https://superuser.com/questions/1449775/windows-wsl-2-cant-ping-host-machine/1496354)
+
+### Writing CronJobs
+```
+Edit cronjobs
+crontab -e
+
+List all cronjobs
+crontab -l 
+
+Sample Command
+00 12 * * * /usr/bin/git -C /root/covid19-public pull
+```

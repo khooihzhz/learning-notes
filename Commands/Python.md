@@ -51,4 +51,23 @@ python -m http.server 80
 ### CP methods
 ```python
 a, b, c, d = [int(x) for x in input().split()]
+
+# looping from [1]
+
+for num in nums[!:]: 
+	
+# get i and num at the same time
+for i, num in enumerate(nums):
+
+# Kadane's Algorithm
+def maxSubArray(self, nums: List[int]) -> int:
+	maxCur = nums[0]
+	maxGlobal = nums[0]
+
+	for i in range(1, len(nums)):
+		maxCur = max(nums[i], nums[i] + maxCur)
+		maxGlobal = max(maxCur, maxGlobal)
+
+	return maxGlobal
+
 ```
